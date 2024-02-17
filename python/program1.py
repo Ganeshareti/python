@@ -4,3 +4,4 @@ if a>=18:
 else:
     print("not eligible to Vote")
 
+// my name ganesh
